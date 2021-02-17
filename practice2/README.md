@@ -1,5 +1,5 @@
-# Practice session 1
+# Practice session 2
 
-### 10.02.2021
+### 17.02.2021
 
 Notebook: [Colab](https://colab.research.google.com/drive/1kQj9oy5L8h9Knn8zqMgXns1MWowgjrXj?usp=sharing)
