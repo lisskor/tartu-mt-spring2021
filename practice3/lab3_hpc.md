@@ -48,7 +48,7 @@ For additional information on managing Conda environments, see [this guide](http
 First, load python:
 
 ```
-module load python/3.6.3/CUDA
+module load python/3.6.3
 ```
 
 Then create a clean environment:
